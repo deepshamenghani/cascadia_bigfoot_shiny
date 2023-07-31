@@ -1,11 +1,12 @@
 # Cascadia conference - Bigfoot Sightings in the United States - Shiny Web Application
 
-This repository contains the non-modularized and modularized code for the bigfoot shiny app used for the Cascadia Conference 2023 talk. 
+This repository contains the non-modularized and modularized code for the bigfoot shiny app used for the Cascadia Conference 2023 talk. The goal was to showcase how to learn Shiny modules by modularizing and existing app, hence in the code for non-mularized as well as modularized app.R files. The code is simple because the goal was to explain module concepts as simply as possible. 
+
 This Shiny web application provides interactive visualizations of Bigfoot sightings in the United States. It allows users to explore and analyze Bigfoot sighting data through county-wise and yearly plots. The app also provides an option to compare data for two different states.
 
 ![image](https://github.com/deepshamenghani/cascadia_bigfoot_shiny/assets/46545400/95d7194b-9834-4ba5-b18b-53b8c88744d2)
 
-## Getting Started
+## Getting Started with app_modular.R file
 
 ### Prerequisites
 
